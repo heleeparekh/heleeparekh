@@ -1,9 +1,6 @@
 ### Hi there! I'm Helee 👋
 
-I focus on understanding the 'why' behind problems to engineer solutions that are both effective and impactful.
-I have about 3 years of experience building software and right now, I'm pursuing my Master's at Stony Brook University, which is helping me get even better at what I do.
-In my work, I pay a lot of attention to developing software that is implemented correctly, while ensuring the code is clean and well-tested.
-I believe in the power of technology to transform ideas into reality, and I'm always on the lookout for like-minded individuals to collaborate with.
+I focus on understanding the 'why' behind problems to engineer solutions that are both effective and impactful. With 3 years of experience building software and a Master's in Computer Engineering from Stony Brook University, I’m continually refining my skills to deliver clean, well-tested code. I'm passionate about using technology to tackle real-world challenges and am always on the lookout for like-minded individuals to collaborate with.
 
 <!--
 **heleeparekh/heleeparekh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
